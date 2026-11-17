@@ -1,3 +1,4 @@
+<img width="1500" height="750" alt="Pareto_chart" src="https://github.com/user-attachments/assets/ab1db4ea-e667-4ae8-a9d0-0e9cce1a66fc" />
 # ABC-анализ ассортимента: выручка и маржа, диаграмма Парето, Excel-отчёт
 
 Автоматизация отчётности по продажам на Python: сверка данных из двух источников,
